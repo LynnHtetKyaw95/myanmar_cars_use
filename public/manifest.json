@@ -1,0 +1,16 @@
+{
+  "name": "GoOrNo - Car Use Alert",
+  "short_name": "GoOrNo",
+  "description": "Car Use Alert System - Check if you can drive based on your license plate",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
