@@ -1,4 +1,4 @@
-# Myanmar Car Use Alert System (Pico y Placa)
+# Myanmar Car Use Alert System (Go or No)
 
 A Progressive Web Application (PWA) for the Myanmar vehicle restriction system that helps drivers know when they can drive based on their license plate number and the current date.
 
